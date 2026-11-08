@@ -1,0 +1,100 @@
+/* Custom CSS - Marketplace Laundry Design System */
+:root {
+    --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    --primary-color: #2563eb;
+    --primary-hover: #1d4ed8;
+    --primary-accent: #06b6d4;
+    --bg-dark: #0f172a;
+    --bg-dark-card: #1e293b;
+    --text-main: #334155;
+    --border-radius-lg: 1rem;
+}
+
+body {
+    font-family: var(--font-family);
+    color: var(--text-main);
+    background-color: #f8fafc;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Custom Gradients */
+.bg-dark-gradient {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+}
+
+.bg-primary-gradient {
+    background: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+}
+
+.text-gradient {
+    background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text-primary-accent {
+    color: var(--primary-accent) !important;
+}
+
+.btn-primary-accent {
+    background-color: var(--primary-accent);
+    border-color: var(--primary-accent);
+}
+
+.btn-primary-accent:hover {
+    background-color: #0891b2;
+    border-color: #0891b2;
+}
+
+/* Glassmorphism Styling */
+.bg-glass {
+    background: rgba(30, 41, 59, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+}
+
+.border-white-10 {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Utilities */
+.fw-extrabold {
+    font-weight: 800;
+}
+
+.max-w-700 {
+    max-width: 700px;
+}
+
+.max-w-500 {
+    max-width: 500px;
+}
+
+.shadow-2xl {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+}
+
+.icon-circle {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Micro Animations */
+.hover-lift {
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.hover-lift:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04) !important;
+}

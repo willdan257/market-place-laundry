@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+/vendor/
+/storage/framework/rate_limits/*
+/storage/logs/*.log
+/public/uploads/partners/*
+/public/uploads/documents/*
+*.log
+.DS_Store
+
+/scratch/
+composer.phar

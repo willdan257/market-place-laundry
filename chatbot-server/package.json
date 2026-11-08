@@ -1,0 +1,13 @@
+{
+  "name": "marketplace-laundry-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot Beranda Marketplace Laundry (Node.js + Nous Research API)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}

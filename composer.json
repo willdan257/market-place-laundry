@@ -1,0 +1,14 @@
+{
+  "name": "marketplace/laundry",
+  "description": "Marketplace Laundry Platform",
+  "type": "project",
+  "license": "proprietary",
+  "scripts": {
+    "dev": "php dev.php",
+    "start": "php dev.php",
+    "test": "php tests/run_tests.php"
+  },
+  "require": {
+    "phpmailer/phpmailer": "^7.1"
+  }
+}

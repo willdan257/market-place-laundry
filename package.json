@@ -1,0 +1,11 @@
+{
+  "name": "marketplace-laundry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Marketplace Laundry Platform",
+  "scripts": {
+    "dev": "php dev.php",
+    "start": "php dev.php",
+    "test": "php tests/run_tests.php"
+  }
+}

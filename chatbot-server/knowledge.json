@@ -1,0 +1,171 @@
+{
+  "nama_aplikasi": "Marketplace Laundry",
+  "slogan": "Solusi Laundry Bersih, Cepat, Wangi, & Antar-Jemput Praktis",
+  "tentang": "Marketplace Laundry adalah platform digital terpadu untuk layanan laundry antar-jemput. Anda cukup memesan lewat website, kurir kami akan menjemput pakaian kotor langsung dari depan pintu rumah Anda, dicuci profesional oleh mitra toko terbaik, dan diantar kembali dalam kondisi rapi, bersih, dan harum higienis.",
+  "jam_operasional": "Buka Setiap Hari: 07.00 - 21.00 WIB (Pesanan online bisa dibuat 24 jam)",
+  "layanan": [
+    {
+      "kategori": "Cuci Kiloan (Pakaian Harian)",
+      "daftar": [
+        {
+          "nama": "Cuci Kiloan Reguler (Cuci + Kering + Setrika + Lipat)",
+          "harga": "Rp 7.000 per kg",
+          "estimasi": "24 Jam",
+          "minimal_order": "3 kg (di bawah 3 kg dihitung tarif minimum 3 kg)",
+          "deskripsi": "Layanan paling populer untuk pakaian sehari-hari. Pakaian dicuci bersih terpisah per pelanggan, disetrika uap rapi, disemprot parfum anti-apek, dan dipacking plastik kedap udara."
+        },
+        {
+          "nama": "Cuci Kiloan Express 6 Jam",
+          "harga": "Rp 12.000 per kg",
+          "estimasi": "6 Jam Selesai",
+          "minimal_order": "3 kg",
+          "deskripsi": "Prioritas pengerjaan kilat. Pakaian selesai dicuci, dikeringkan, dan disetrika rapi dalam waktu 6 jam setelah tiba di toko laundry."
+        },
+        {
+          "nama": "Cuci Kering Saja (Tanpa Setrika / Folded)",
+          "harga": "Rp 5.500 per kg",
+          "estimasi": "24 Jam",
+          "minimal_order": "3 kg",
+          "deskripsi": "Pencucian dan pengeringan higienis sampai tuntas, dilipat rapi tanpa disetrika."
+        },
+        {
+          "nama": "Setrika Uap Saja (Per Kg)",
+          "harga": "Rp 4.000 per kg",
+          "estimasi": "24 Jam",
+          "minimal_order": "3 kg",
+          "deskripsi": "Khusus pakaian yang sudah Anda cuci sendiri namun ingin disetrika halus menggunakan setrika uap profesional dan wangi tahan lama."
+        }
+      ]
+    },
+    {
+      "kategori": "Cuci Satuan & Dry Clean (Perawatan Khusus)",
+      "daftar": [
+        {
+          "nama": "Jas Lengkap (Blazer + Celana)",
+          "harga": "Rp 35.000 per stel",
+          "estimasi": "48 Jam",
+          "deskripsi": "Dry clean profesional dengan chemical khusus serat wol/jas agar bentuk bahu dan kain tetap presisi tanpa menyusut."
+        },
+        {
+          "nama": "Kemeja Formal / Batik Sutra",
+          "harga": "Rp 15.000 per pcs",
+          "estimasi": "24 - 48 Jam",
+          "deskripsi": "Pencucian gentle wash untuk menjaga warna batik tidak luntur dan kerah kemeja tetap tegak sempurna."
+        },
+        {
+          "nama": "Gamis / Gaun Pesta / Kebaya",
+          "harga": "Rp 30.000 - Rp 50.000 per pcs",
+          "estimasi": "48 Jam",
+          "deskripsi": "Perawatan manual dengan perhatian ekstra pada payet, brokat, renda, dan material kain halus."
+        },
+        {
+          "nama": "Jaket Kulit / Jaket Tebal / Winter Coat",
+          "harga": "Rp 35.000 - Rp 60.000 per pcs",
+          "estimasi": "48 - 72 Jam",
+          "deskripsi": "Deep cleaning dengan pelembap khusus untuk material kulit/suede/bulu sintetis agar tidak pecah-pecah."
+        }
+      ]
+    },
+    {
+      "kategori": "Perlengkapan Tidur & Rumah Tangga",
+      "daftar": [
+        {
+          "nama": "Bedcover Ukuran Besar (King / Queen)",
+          "harga": "Rp 30.000 per pcs",
+          "estimasi": "48 Jam",
+          "deskripsi": "Pencucian menggunakan mesin drum besar, dibilas antibakteri, dan dikeringkan menyeluruh agar dakron tidak menggumpal."
+        },
+        {
+          "nama": "Bedcover Ukuran Kecil (Single)",
+          "harga": "Rp 25.000 per pcs",
+          "estimasi": "48 Jam",
+          "deskripsi": "Pencucian bersih harum untuk bedcover ukuran 120 x 200 cm."
+        },
+        {
+          "nama": "Sprei Set (Sprei + Sarung Bantal/Guling)",
+          "harga": "Rp 15.000 per set",
+          "estimasi": "24 Jam",
+          "deskripsi": "Sprei dicuci higienis bebas tungau debu dan disetrika halus."
+        },
+        {
+          "nama": "Selimut Tebal / Fleece",
+          "harga": "Rp 18.000 - Rp 25.000 per pcs",
+          "estimasi": "24 - 48 Jam",
+          "deskripsi": "Perawatan lembut agar serat bulu selimut tetap lembut dan tidak kasar."
+        },
+        {
+          "nama": "Gorden / Tirai Jendela",
+          "harga": "Rp 8.000 - Rp 12.000 per meter persegi",
+          "estimasi": "48 Jam",
+          "deskripsi": "Menghilangkan debu tebal dan noda kusam pada kain gorden jendela."
+        }
+      ]
+    },
+    {
+      "kategori": "Sepatu, Tas, & Perlengkapan Khusus",
+      "daftar": [
+        {
+          "nama": "Deep Clean Sepatu (Sneakers / Kanvas / Kulit)",
+          "harga": "Rp 25.000 - Rp 40.000 per pasang",
+          "estimasi": "48 - 72 Jam",
+          "deskripsi": "Pembersihan total outsole, midsole, upper, insole, dan tali sepatu dengan formula ramah material."
+        },
+        {
+          "nama": "Cuci Helm Full Face / Half Face",
+          "harga": "Rp 20.000 - Rp 30.000 per unit",
+          "estimasi": "24 Jam",
+          "deskripsi": "Pencucian busa dalam anti-bakteri, sterilisasi bau keringat, dan pembersihan kaca visor."
+        },
+        {
+          "nama": "Cuci Boneka",
+          "harga": "Rp 10.000 - Rp 45.000 (tergantung ukuran)",
+          "estimasi": "48 Jam",
+          "deskripsi": "Pencucian bebas kuman dan pengeringan tuntas tanpa merusak bulu atau bentuk boneka."
+        }
+      ]
+    }
+  ],
+  "ongkos_kirim": {
+    "aturan": "Tarif ongkos kirim dihitung otomatis berdasarkan jarak koordinat toko ke lokasi Anda:",
+    "rincian": [
+      { "jarak": "0 s/d 3 km", "tarif": "Rp 5.000 (flat)" },
+      { "jarak": "3.1 s/d 5 km", "tarif": "Rp 8.000 (flat)" },
+      { "jarak": "Di atas 5 km", "tarif": "Rp 8.000 + Rp 2.000 per km tambahan" }
+    ],
+    "catatan": "Ongkos kirim mencakup 2 kali perjalanan (penjemputan pakaian kotor + pengantaran kembali cucian bersih)."
+  },
+  "alur_pemesanan": [
+    { "langkah": 1, "judul": "Masuk / Registrasi Akun", "penjelasan": "Klik tombol 'Masuk' atau 'Daftar' di pojok kanan atas website, pilih peran Customer, lalu lengkapi nomor WhatsApp dan alamat penjemputan Anda." },
+    { "langkah": 2, "judul": "Pilih Layanan & Buat Pesanan", "penjelasan": "Masuk ke menu 'Buat Order Laundry', pilih toko terdekat, pilih jenis layanan (Kiloan, Bedcover, dll), serta tulis catatan khusus jika ada pakaian luntur/sensitif." },
+    { "langkah": 3, "judul": "Kurir Menjemput Pakaian", "penjelasan": "Pemilik toko laundry menugaskan kurir. Kurir akan datang ke lokasi penjemputan sesuai alamat dan waktu yang Anda tentukan." },
+    { "langkah": 4, "judul": "Penimbangan di Toko & Total Final", "penjelasan": "Pakaian tiba di toko dan ditimbang secara transparan. Sistem akan memperbarui bobot riil dan memunculkan total tagihan final." },
+    { "langkah": 5, "judul": "Lakukan Pembayaran", "penjelasan": "Pilih metode pembayaran (QRIS otomatis atau Tunai/Cash). Begitu pembayaran dikonfirmasi, pakaian langsung diproses cuci." },
+    { "langkah": 6, "judul": "Pakaian Selesai & Diantar Kembali", "penjelasan": "Setelah selesai dicuci, disetrika, dan dipacking wangi, kurir akan mengantarkan cucian kembali ke alamat Anda dalam kondisi higienis dan rapi." }
+  ],
+  "metode_pembayaran": [
+    { "metode": "QRIS (Semua E-Wallet & Mobile Banking)", "keterangan": "Bisa scan via GoPay, OVO, DANA, ShopeePay, BCA, Mandiri, BRI, BNI, dll. Konfirmasi otomatis seketika dalam hitungan detik. Berlaku 1 jam setelah invoice keluar." },
+    { "metode": "Tunai / Cash (COD)", "keterangan": "Bayar langsung uang tunai kepada kurir saat penjemputan atau setelah penimbangan dikonfirmasi oleh toko." },
+    { "metode": "Transfer Bank Manual", "keterangan": "Transfer ke nomor rekening bank resmi toko dan verifikasi instan." }
+  ],
+  "standar_kualitas_dan_garansi": [
+    { "poin": "1 Mesin 1 Pelanggan (Tidak Dicampur)", "penjelasan": "Pakaian Anda dijamin TIDAK PERNAH dicampur dengan pakaian orang lain untuk menjaga kehigienisan dan mencegah tertukar." },
+    { "poin": "Pemisahan Warna", "penjelasan": "Pakaian putih dipisahkan dari pakaian berwarna gelap untuk mencegah risiko kelunturan." },
+    { "poin": "Deterjen Ramah Serat & Parfum Premium", "penjelasan": "Menggunakan deterjen khusus serat pakaian dan pewangi micro-capsule tahan hingga 2 minggu." },
+    { "poin": "Garansi Cuci Ulang Gratis 100%", "penjelasan": "Jika cucian masih berbau apek atau noda wajar belum hilang, kami memberikan garansi cuci ulang gratis tanpa biaya tambahan dengan melapor maksimal 2x24 jam setelah pesanan diterima." }
+  ],
+  "faq": [
+    { "q": "Berapa lama proses laundry selesai?", "a": "Tergantung pilihan layanan Anda: Cuci Kiloan Express selesai dalam 6 jam, Cuci Kiloan Reguler 24 jam, sedangkan Bedcover, Jas, dan Sepatu membutuhkan waktu 24 - 48 jam pengerjaan." },
+    { "q": "Kapan saya harus membayar pesanan?", "a": "Pembayaran dilakukan setelah pakaian tiba di toko dan ditimbang (status 'Sudah Ditimbang'). Hal ini karena total biaya akhir dihitung dari berat riil timbangan toko agar adil dan transparan." },
+    { "q": "Apakah ada minimal berat untuk cuci kiloan?", "a": "Minimal pemesanan cuci kiloan adalah 3 kg. Jika pakaian Anda di bawah 3 kg (misal 1.5 kg), tetap bisa dicuci dan akan dihitung tarif dasar 3 kg." },
+    { "q": "Bagaimana cara cek status pakaian saya?", "a": "Silakan login ke akun Anda, klik menu 'Riwayat Order'. Di sana Anda bisa memantau posisi kurir penjemput, berat cucian, status pencucian, hingga status pengantaran kembali." },
+    { "q": "Bagaimana jika ada pakaian luntur atau barang tertinggal di saku?", "a": "Sebelum pakaian diserahkan ke kurir, mohon periksa saku celana/baju Anda dari uang koin, kartu, atau perhiasan. Jika ada pakaian yang mudah luntur, beri tahu kurir atau cantumkan pada catatan order saat memesan." },
+    { "q": "Apakah bisa pesan jika belum punya akun?", "a": "Anda bisa melihat info layanan dan bertanya di chatbot ini tanpa login. Namun untuk membuat pesanan dan request penjemputan, Anda wajib mendaftar akun Customer terlebih dahulu agar kurir mengetahui alamat pengiriman." }
+  ],
+  "kontak_bantuan": {
+    "whatsapp": "+62 812-3456-7890",
+    "email": "support@marketplacelaundry.id",
+    "telepon": "+62 812-3456-7890",
+    "alamat_pusat": "Jl. Raya Kampus No. 28, Kota Bandung",
+    "jam_layanan_cs": "Senin - Minggu: 07.00 - 21.00 WIB"
+  }
+}
